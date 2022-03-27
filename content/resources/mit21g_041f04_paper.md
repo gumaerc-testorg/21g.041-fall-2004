@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3a0e577f-f299-5570-f9ec-577ccf3c097e
 resourcetype: Document
 title: Memoir on Cooking
 uid: e6422447-37c2-bca6-54a5-6172007a662b
