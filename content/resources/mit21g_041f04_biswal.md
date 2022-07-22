@@ -6,6 +6,7 @@ file: /courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/73
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mozail
 uid: 730faff8-4089-8046-0c90-63f29949e7e7
 ---
 Example of student work: a composition based on Saadat Hasan Manto's "Mozail." 
-
