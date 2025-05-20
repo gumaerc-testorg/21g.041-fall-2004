@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work: an essay on the art of invisibility in Kiran\
   \ Desai\u2019s Hullabaloo in the Guava Orchard."
-file: /ol-ocw-studio-app/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/8490e3e04ea39b027823a111e94d147e_MIT21G_041F04_ramya.pdf
+file: /courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/8490e3e04ea39b027823a111e94d147e_MIT21G_041F04_ramya.pdf
 file_size: 585969
 file_type: application/pdf
 learning_resource_types:
