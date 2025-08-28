@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: a composition based on Saadat Hasan Manto''s
   "Mozail." '
-file: /courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/730faff8408980460c9063f29949e7e7_MIT21G_041F04_biswal.pdf
+file: /ol-ocw-studio-app/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/730faff8408980460c9063f29949e7e7_MIT21G_041F04_biswal.pdf
 file_size: 155414
 file_type: application/pdf
 learning_resource_types:
